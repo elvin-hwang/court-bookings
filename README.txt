@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import babel.numbers myscript.py
